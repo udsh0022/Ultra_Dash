@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UltradashCoin
+Comment=UltradashCoin P2P Cryptocurrency
+Exec=ultradashcoin-qt %u
+Terminal=false
+Type=Application
+Icon=ultradashcoin128
+MimeType=x-scheme-handler/ultradashcoin;
+Categories=Office;Finance;
+Name[en_US]=ultradashcoin-qt.desktop
